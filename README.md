@@ -1,1 +1,1 @@
-# https://github.com/Ryan-DowlingSoka/ReliefMappingWiki/wiki/Get-Relief!
+# [Documentation Here!](https://github.com/Ryan-DowlingSoka/ReliefMappingWiki/wiki/Get-Relief!)
